@@ -1,6 +1,6 @@
 # Yi Ni Ong
 
-Data analytics professional in the tech industry. Experienced in payment fraud and trust and safety. 
+Data analytics professional in the tech industry. Currently working in payments fraud, trust and safety. 
 
 [Linkedin](https://www.linkedin.com/in/yiniong/)/[Github](https://github.com/baqspaces)
 
@@ -11,6 +11,8 @@ Data analytics professional in the tech industry. Experienced in payment fraud a
 - Git
 - Spark
 - Airflow
+
+
 
 ```markdown
 Syntax highlighted code block
