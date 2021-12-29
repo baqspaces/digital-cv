@@ -1,4 +1,4 @@
-# Yi Ni Ong
+# Resume
 
 Data analytics professional in the tech industry. Currently working in payments fraud, trust and safety. 
 
