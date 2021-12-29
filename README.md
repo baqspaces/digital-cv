@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+# Yi Ni Ong
 
-You can use the [editor on GitHub](https://github.com/baqspaces/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Data analytics professional in the tech industry. Experienced in payment fraud and trust and safety. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Linkedin](https://www.linkedin.com/in/yiniong/)/[Github](https://github.com/baqspaces)
 
-### Markdown
+## Techical Expertise
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Python
+- SQL
+- Git
+- Spark
+- Airflow
 
 ```markdown
 Syntax highlighted code block
